@@ -1,0 +1,47 @@
+GitHub - Getting Started
+------------------------------------------
+
+
+0:00/3:26
+
+Skript
+Interaktives Transkript – Aktivieren Sie den Basis-Transkript-Modus durch Drücken der Escape-Taste
+
+Sie können mithilfe der Tabulatortaste durch die Abschrift navigieren. Drücken Sie STRG + S, um eine Notiz für einen Textabschnitt zu speichern. Um Ihre Auswahl auszuklappen, können Sie STRG + Pfeiltaste verwenden. Um Ihre Auswahl einzuklappen, können Sie Shift + STRG + Pfeiltaste verwenden. Für Bildschirmleseprogramme, bei denen die Pfeiltasten nicht als Tastenkürzel verwendet werden dürfen, können diese durch die Tasten H, J, K und L ersetzt werden. Bei manchen Bildschirmleseprogrammen muss STRG in Verbindung mit der Alt-Taste verwendet werden.
+Im vorherigen Video haben Sie etwas über Git und GitHub erfahren. Bevor Sie mit diesem Video fortfahren,
+registrieren Sie sich für ein GitHub-Konto und melden Sie sich an. Beginnen wir mit dem Erstellen eines neuen Repositorys.
+Klicken Sie auf + und dann auf Neues Repository. Um ein neues Repository zu erstellen, müssen Sie
+folgende Details angeben: Geben Sie Ihrem neuen Repository einen Namen, fügen Sie optional eine Beschreibung Ihres Repositorys hinzu,
+wählen Sie die Sichtbarkeit des Repositorys aus, ob es öffentlich oder privat sein soll; und wählen Sie die Option,
+dieses Repository mit Readme-Datei zu initialisieren. Klicken Sie dann auf Repository erstellen.
+
+Sie werden nun zu dem von Ihnen erstellten Repository umgeleitet.
+Der Stammordner Ihres Repositorys ist standardmäßig aufgeführt und enthält nur eine Datei Readme.md.
+
+Jetzt ist es an der Zeit, die Readme-Datei zu bearbeiten. Sie können dies in Ihrem Browser tun. Klicken Sie einfach auf den Stift, um den
+Online-Editor zu öffnen und Sie können den Text der Readme-Datei ändern. Um Ihre Änderungen im Repository zu speichern,
+müssen Sie sie festschreiben. Nachdem Sie Ihre Änderungen vorgenommen haben, führen Sie einen Bildlauf nach unten zum
+Abschnitt „Änderungen übernehmen“ durch. Fügen Sie eine Commit-Nachricht hinzu, fügen Sie optional eine Beschreibung hinzu, und klicken Sie dann auf Änderungen übernehmen. Die
+„Commit-Änderungen“ werden verwendet, um Ihre Änderungen im Repository zu speichern. Gehen Sie zurück zum Startbildschirm,
+indem Sie auf den Repository-Namen-Link klicken. Beachten Sie, dass die Readme-Datei aktualisiert wird, und überprüfen Sie Ihre Änderungen.
+
+Lassen Sie uns lernen, wie Sie eine neue Datei mit dem integrierten Web-Editor erstellen, der von GitHub bereitgestellt
+wird, die im Browser ausgeführt wird. Klicken Sie auf Datei hinzufügen, und klicken Sie dann auf Neue Datei erstellen, um die neue Datei zu erstellen.
+
+Um eine Python-Datei namens firstpython.py zu erstellen.
+Geben Sie zunächst den Dateinamen ein. Fügen Sie als Nächstes einen Kommentar hinzu, der Ihren Code beschreibt, und fügen Sie dann den Code hinzu.
+
+Wenn Sie fertig sind, können Sie die Änderung an das Repository übergeben. Sie können sehen, dass Ihre Datei
+nun dem Repository hinzugefügt wird und die Repository-Liste zeigt an, wann die Datei hinzugefügt oder geändert wurde.
+Wenn Sie die Datei ändern müssen, können Sie sie erneut bearbeiten.
+Klicken Sie auf den Dateinamen, und klicken Sie dann auf das Stiftsymbol, nehmen Sie die Änderungen vor und übernehmen Sie die Änderungen.
+
+Sie können auch eine Datei von Ihrem lokalen System in das Repository hochladen.
+
+Klicken Sie auf dem Startbildschirm des Repositorys auf Datei hinzufügen und wählen Sie die Option Dateien hochladen.
+Klicken Sie auf „Dateien auswählen“ und wählen Sie die Dateien aus, die Sie von Ihrem lokalen System hochladen möchten.
+
+Der Dateihochladevorgang kann
+je nachdem, was Sie hochladen, eine kurze Zeit in Anspruch nehmen. Nachdem die Dateien hochgeladen wurden,
+klicken Sie auf Änderungen übernehmen. Das Repository spiegelt nun die Dateien wider, die hochgeladen wurden. In diesem Video
+haben Sie gelernt, wie Sie über die Weboberfläche ein Repository erstellen, Dateien bearbeiten und Änderungen übernehmen. 

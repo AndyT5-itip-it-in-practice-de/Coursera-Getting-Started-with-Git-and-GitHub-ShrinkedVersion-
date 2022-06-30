@@ -1,0 +1,27 @@
+Erste Schritte mit Git und GitHub
+
+----------------------------------------------------------------
+
+Kurseinführung
+
+Willkommen zu diesem Kurs auf Git und GitHub! 
+
+Verteilte Versionskontrollsysteme (DVCS) sind zu entscheidenden Werkzeugen in der Softwareentwicklung und zu Schlüsselfaktoren für soziales und kollaboratives . Sie werden nicht nur von Softwareingenieuren und DevOps-Experten verwendet, sondern auch von vielen anderen Technologiepraktikern wie Datenwissenschaftlern und Dateningenieuren. 
+
+Ihre Verwendung ist jedoch nicht nur auf Programmierberufe beschränkt.  Sie sind überall dort nützlich, wo Änderungen/Versionen nachverfolgt und/oder die Zusammenarbeit zwischen mehreren Benutzern erforderlich ist.  Bei IBM Skills Network nutzen die Kursleiter und Autoren Git-Repositories ausgiebig, sogar für die Entwicklung von Kursinhalten wie Laboranweisungen.  Sie finden auch Anwendungsfälle in der technischen Dokumentation, im Management von Rechtsdokumenten und sogar in der kollaborativen Entwicklung von Rezepten, Büchern usw. 
+
+Während es viele verteilte Versionierungssysteme gibt, gehört Git zu den beliebtesten. Und GitHub ist eine sehr beliebte Git-basierte gehostete Versionskontrollplattform , die ein unglaubliches Wachstum verzeichnet. Als einige der Videos für diesen Kurs einige Jahre zuvor entwickelt wurden, gab es über 100 Millionen GitHub-Repositories, während sie zum Zeitpunkt des Schreibens, Januar 2022, auf über 200 Millionen Repositories angewachsen sind. Dazu gehören sowohl öffentliche als auch private Repositories für Open-Source- und Closed-Source-Projekte. 
+
+Die Popularität von Git und GitHub macht ihre Verwendung zu einer wesentlichen Fähigkeit für codierungsbezogene Fachleute wie Softwareingenieure, Anwendungsentwickler, Mobilentwickler, DevOps- und Standortzuverlässigkeitsingenieure, Datenwissenschaftler und Dateningenieure. Wenn Sie versuchen, einen softwarebezogenen Job zu bekommen oder zu einem anderen zu wechseln, erwarten Arbeitgeber, dass Sie in Ihrem Lebenslauf Links zu Ihrem GitHub-Profil angeben. 
+
+In diesem Kurs entwickeln Sie die wesentlichen konzeptionellen und praktischen Fähigkeiten, um mit Git und GitHub zu arbeiten . Wir beginnen mit einem Überblick über Git und GitHub, gefolgt von der Erstellung eines GitHub-Kontos und eines Projekt-Repositorys , dem Hinzufügen von Dateien und dem Übertragen Ihrer Änderungen über die Weboberfläche. 
+
+Als Nächstes machen Sie sich mit Git-Workflows vertraut, die Branches und Pull Requests (PRs) und Merges beinhalten . Sie lernen, forken und zu klonen öffentliche Repositories Pull und Push zu verwenden, um Ihre Codebasis zwischen lokalen und Remote-Repositories zu synchronisieren, und üben die Arbeit mit Git-Befehlen zur Verwendung in kollaborativen Entwicklungsworkflows. auch ein Projekt Am Ende 
+
+Wenn Sie Erläuterungen oder Hilfe benötigen, können Sie gerne in den Diskussionsforen des Kurses posten, um mit Ihren Kollegen zu interagieren und Hilfe vom Kursteam zu erhalten. 
+
+Viel Spaß und beste Wünsche! 
+
+Ihre Kursleiter, 
+
+Rav Ahuja und Upkar Lidder 
