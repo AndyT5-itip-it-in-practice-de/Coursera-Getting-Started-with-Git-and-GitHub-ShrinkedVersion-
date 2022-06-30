@@ -1,0 +1,23 @@
+Zusammenfassung des Moduls
+--------------------------------------
+
+In diesem Modul haben Sie Folgendes gelernt: 
+
+Ein verteiltes Versionskontrollsystem (DVCS) verfolgt Änderungen am Code, 
+unabhängig davon, wo er gespeichert ist.  Dadurch können mehrere Benutzer 
+an derselben Codebasis oder demselben Repository arbeiten und die Codebasis 
+bei Bedarf auf ihren eigenen Computern spiegeln, während die verteilte 
+Versionskontrollsoftware bei der Verwaltung der Synchronisierung zwischen 
+den verschiedenen Codebasisspiegeln hilft. 
+
+Repositories sind Speicherstrukturen, die: 
+
+
+    Speichern Sie den Code 
+    Verfolgen Sie Probleme und Änderungen 
+    Ermöglichen Sie die Zusammenarbeit mit anderen 
+
+
+Git ist eines der beliebtesten verteilten Versionskontrollsysteme. 
+ GitHub, GitLab und Bitbucket sind Beispiele für gehostete Versionskontrollsysteme. 
+

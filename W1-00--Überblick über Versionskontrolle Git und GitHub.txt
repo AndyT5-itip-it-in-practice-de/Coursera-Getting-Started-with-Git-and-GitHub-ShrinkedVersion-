@@ -1,0 +1,55 @@
+Überblick über Versionskontrolle, Git und GitHub 
+----------------------------------------------------------------
+(Musik)
+In diesem Video erhalten Sie einen Überblick über die beliebten Umgebungen Git und GitHub
+unter Entwicklern und Datenwissenschaftlern für die Durchführung der Versionskontrolle von Quellcodedateien und -projekten
+und Zusammenarbeit mit anderen.
+Sie können nicht über Git und GitHub sprechen, ohne ein grundlegendes Verständnis dafür zu haben, was Versionskontrolle ist.
+
+Ein Versionskontrollsystem ermöglicht es Ihnen, Änderungen an Ihren Dokumenten nachzuverfolgen.
+Dies macht es Ihnen leicht, ältere Versionen Ihres Dokuments wiederherzustellen, wenn Sie einen Fehler machen,
+und es macht die Zusammenarbeit mit anderen viel einfacher.
+Hier ist ein Beispiel, um zu veranschaulichen, wie die Versionskontrolle funktioniert.
+Angenommen, Sie haben eine Einkaufsliste und möchten, dass Ihre Mitbewohner die Dinge bestätigen
+Sie benötigen und fügen zusätzliche Elemente hinzu.
+Ohne Versionskontrolle haben Sie ein großes Durcheinander zu bereinigen, bevor Sie einkaufen gehen können.
+Mit der Versionskontrolle wissen Sie genau, was Sie brauchen, nachdem alle ihre Ideen eingebracht haben.
+
+Git ist kostenlose Open-Source-Software, die unter der GNU General Public License vertrieben wird.
+Git ist ein verteiltes Versionskontrollsystem, was bedeutet, dass Benutzer überall auf der Welt
+können eine Kopie Ihres Projekts auf ihrem eigenen Computer haben. Wenn sie Änderungen vorgenommen haben, sie
+können ihre Version mit einem Remote-Server synchronisieren, um sie mit Ihnen zu teilen.
+Git ist nicht das einzige Versionskontrollsystem da draußen, aber der verteilte Aspekt ist einer
+einer der Hauptgründe, warum es zu einem der gängigsten verfügbaren Versionskontrollsysteme geworden ist.
+Versionskontrollsysteme werden häufig für Dinge verwendet, die Code betreffen, aber Sie können auch Versionen erstellen
+Steuern Sie Bilder, Dokumente und eine beliebige Anzahl von Dateitypen.
+Sie können Git auch ohne Weboberfläche verwenden, indem Sie Ihre Befehlszeilenschnittstelle verwenden, aber
+GitHub ist einer der beliebtesten webgehosteten Dienste für Git-Repositories.
+Andere sind GitLab, BitBucket und Beanstalk.
+Es gibt ein paar grundlegende Begriffe, die Sie kennen müssen, bevor Sie beginnen können.
+Das SSH-Protokoll ist eine Methode zur sicheren Remote-Anmeldung von einem Computer zu einem anderen.
+Ein Repository enthält Ihre Projektordner, die für die Versionskontrolle eingerichtet sind.
+Ein Fork ist eine Kopie eines Repositorys.
+Mit einem Pull-Request fordern Sie an, dass jemand Ihre Änderungen überprüft und genehmigt
+bevor sie endgültig werden.
+Ein Arbeitsverzeichnis enthält die zugehörigen Dateien und Unterverzeichnisse auf Ihrem Computer
+mit einem Git-Repository.
+Es gibt ein paar grundlegende Git-Befehle, die Sie immer verwenden werden.
+Wenn Sie mit einem neuen Repository beginnen, müssen Sie es nur einmal erstellen: entweder lokal,
+und dann auf GitHub pushen, oder indem Sie ein vorhandenes Repository mit dem Befehl „git init“ klonen.
+
+"git add" verschiebt Änderungen aus dem Arbeitsverzeichnis in den Staging-Bereich.
+„git status“ ermöglicht es Ihnen, den Status Ihres Arbeitsverzeichnisses und des bereitgestellten Snapshots anzuzeigen
+Ihrer Änderungen.
+„git commit“ nimmt Ihren inszenierten Snapshot der Änderungen und übergibt sie an das Projekt.
+„git reset“ macht Änderungen rückgängig, die Sie an den Dateien in Ihrem Arbeitsverzeichnis vorgenommen haben.
+"git log" ermöglicht es Ihnen, frühere Änderungen an einem Projekt zu durchsuchen.
+Mit „git branch“ können Sie eine isolierte Umgebung in Ihrem Repository erstellen, um Änderungen vorzunehmen.
+Mit "git checkout" können Sie vorhandene Branches sehen und ändern.
+Mit „git merge“ lässt sich alles wieder zusammenfügen.
+Um zu lernen, wie man Git effektiv nutzt, und um mit der Zusammenarbeit mit Datenwissenschaftlern in der Umgebung zu beginnen
+der Welt, müssen Sie die wesentlichen Befehle lernen.
+Glücklicherweise verfügt GitHub über erstaunliche Ressourcen, die Ihnen den Einstieg erleichtern.
+Gehen Sie zu try.github.io, um die Spickzettel herunterzuladen und die Tutorials durchzugehen.
+In den folgenden Modulen geben wir Ihnen einen Crashkurs zum Einrichten Ihrer lokalen Umgebung
+und den Einstieg in ein Projekt. 

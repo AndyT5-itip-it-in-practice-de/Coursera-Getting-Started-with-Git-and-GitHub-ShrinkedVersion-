@@ -1,0 +1,80 @@
+Einführung in GitHub 
+----------------------------------------------------------------
+Skript
+Interaktives Transkript – Aktivieren Sie den Basis-Transkript-Modus durch Drücken der Escape-Taste
+
+Sie können mithilfe der Tabulatortaste durch die Abschrift navigieren. Drücken Sie STRG + S, um eine Notiz für einen Textabschnitt zu speichern. Um Ihre Auswahl auszuklappen, können Sie STRG + Pfeiltaste verwenden. Um Ihre Auswahl einzuklappen, können Sie Shift + STRG + Pfeiltaste verwenden. Für Bildschirmleseprogramme, bei denen die Pfeiltasten nicht als Tastenkürzel verwendet werden dürfen, können diese durch die Tasten H, J, K und L ersetzt werden. Bei manchen Bildschirmleseprogrammen muss STRG in Verbindung mit der Alt-Taste verwendet werden.
+(Musik)
+Willkommen bei der Einführung in GitHub
+Nachdem Sie sich dieses Video angesehen haben, können Sie:
+Beschreiben Sie den Zweck von Quellrepositorys und
+erklären, wie GitHub die Anforderungen eines Quellrepositorys erfüllt.
+Die Linux-Entwicklung in den frühen 2000er Jahren wurde unter einem frei nutzbaren System namens verwaltet
+BitKeeper.
+2005 wechselte BitKeeper zu einem kostenpflichtigen System, was für Linux-Entwickler problematisch war
+aus vielen Gründen.
+Linus Torvalds leitete ein Team, um ein Ersatz-Quellversionskontrollsystem zu entwickeln.
+Das Projekt lief in einem kurzen Zeitrahmen und die Schlüsselmerkmale wurden definiert von a
+kleine Gruppe.
+Diese beinhalten:
+Starke Unterstützung für nicht-lineare Entwicklung.
+(Linux-Patches kamen damals mit einer Rate von 6,7 Patches pro Sekunde an)
+Verteilte Entwicklung.
+Jeder Entwickler kann eine lokale Kopie des vollständigen Entwicklungsverlaufs haben.
+Kompatibilität mit bestehenden Systemen und Protokollen.
+Dies war notwendig, um die Vielfalt der Linux-Community anzuerkennen.
+Effiziente Abwicklung von Großprojekten.
+Kryptographische Authentifizierung der Geschichte.
+Dadurch wird sichergestellt, dass verteilte Systeme alle identische Code-Updates haben.
+Pluggable Merge-Strategien.
+Viele Entwicklungspfade können zu komplexen Integrationsentscheidungen führen, die möglicherweise explizit erforderlich sind
+Integrationsstrategien.
+Was ist das Besondere am Git-Repository-Modell?
+Git ist als verteiltes Versionskontrollsystem konzipiert.
+Hauptsächlich konzentriert auf das Verfolgen von Quellcode während der Entwicklung.
+Enthält Elemente zur Koordinierung zwischen Programmierern, zur Nachverfolgung von Änderungen und zur Unterstützung nichtlinearer Arbeitsabläufe.
+Erstellt im Jahr 2005 von Linus Torvalds für die Verteilung von Linux-Kernels.
+Git ist ein verteiltes Versionskontrollsystem, das verwendet wird, um Änderungen an Inhalten nachzuverfolgen.
+Es dient als zentraler Punkt für die Zusammenarbeit mit besonderem Fokus auf agile Entwicklung
+Methoden.
+In einem zentralen Versionskontrollsystem muss jeder Entwickler Code aus dem auschecken
+zentrales System und binden Sie es wieder ein.
+Da Git eine verteilte Versionskontrolle ist, hat jeder Entwickler eine lokale Kopie der vollständigen Entwicklung
+Historie, und Änderungen werden von einem solchen Repository in ein anderes kopiert. Jeder Entwickler kann
+als Drehscheibe fungieren.
+Wenn Git richtig verwendet wird, gibt es einen Hauptzweig, der dem Deployable entspricht
+Code.
+Teams können Änderungen, die zur Freigabe bereit sind, kontinuierlich und gleichzeitig integrieren
+Arbeit an separaten Branches zwischen den Releases.
+Git ermöglicht auch die zentralisierte Verwaltung von Aufgaben mit Zugriffskontrollen für jede Aufgabe
+Mannschaft.
+Git kann lokal koexistieren, z. B. über den GitHub Desktop-Client, oder direkt verwendet werden
+über einen Browser, der mit der GitHub-Weboberfläche verbunden ist.
+IBM Cloud basiert auf soliden und etablierten Open-Source-Tools, einschließlich Git-Repositories,
+oft Repos genannt.
+GitHub ist ein Online-Hosting-Service für Git-Repositories.
+GitHub wird von einer Tochtergesellschaft von Microsoft gehostet.
+GitHub bietet kostenlose, professionelle und Unternehmenskonten.
+Ab August 2019 hatte GitHub über 100 Millionen Repositories.
+
+Ein Repository ist:
+Eine Datenstruktur zum Speichern von Dokumenten einschließlich Anwendungsquellcode.
+Ein Repository kann die Versionskontrolle nachverfolgen und aufrechterhalten.
+GitLab ist eine vollständige DevOps-Plattform, die als einzelne Anwendung bereitgestellt wird.
+GitLab bietet Zugriff auf Git-Repositories, gesteuert durch die Quellcodeverwaltung.
+
+Mit GitLab können Entwickler:
+Arbeiten Sie zusammen, überprüfen Sie Code, machen Sie Kommentare und helfen Sie, den Code des anderen zu verbessern.
+Arbeiten Sie mit ihrer eigenen lokalen Kopie des Codes.
+Code verzweigen und zusammenführen, falls erforderlich.
+Optimieren Sie Tests und Bereitstellung mit integrierter Continuous Integration (CI) und Continuous
+Lieferung (CD).
+
+In diesem Video haben Sie gelernt:
+GitHub ist der Online-Hosting-Service für Git-Repositories.
+Repositories speichern Dokumente, einschließlich des Anwendungsquellcodes, und ermöglichen es Mitwirkenden, diese nachzuverfolgen
+und behalten Sie die Versionskontrolle bei.
+Was ist das Besondere am Git-Repository-Modell?
+Git ist als verteiltes Versionskontrollsystem konzipiert.
+Hauptsächlich konzentriert auf das Verfolgen von Quellcode während der Entwicklung.
+Enthält Elemente zur Koordinierung zwischen Programmierern, zur Nachverfolgung von Änderungen und zur Unterstützung nichtlinearer Arbeitsabläufe.
